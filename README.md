@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=MF625&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
+[![](https://img.shields.io/badge/HUAWEI-P30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
  
 # 程序语言
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)

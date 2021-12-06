@@ -1,5 +1,5 @@
-##### <h1>Hi I am ganpion.👋</h1>
-##### Welcome to my channel. 
+##### <h1>Hi, I am ganpion.👋</h1>
+##### <h1>Welcome to my channel. <h1>
 
 <!--
 **MF625/MF625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+ 
+ <div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+</div>
+

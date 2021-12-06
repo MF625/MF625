@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=MF625.readme)
 ![](http://MF625.cn:4000/get/@MF625.readme)
+![info](https://github-readme-stats.vercel.app/api?username=MF625&show_icons=true&count_private=true&hide=prs&theme=default_repocard)

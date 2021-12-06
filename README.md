@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  
 # 程序语言
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/CPP?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
  
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)

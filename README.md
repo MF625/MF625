@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 	<img src="https://activity-graph.herokuapp.com/graph?username=MF625&theme=xcode" />
 </div>
 <h1 align="center">
-	<a href="https://sunguoqi.com/">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);建平祝您每天快乐!&center=true&size=27">
-	</a>
 </h1>
 
